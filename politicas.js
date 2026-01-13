@@ -21,9 +21,9 @@ const defaultConfig = {
   doc4_title: 'Premiações da Agência',
   doc4_desc: 'Sistema de recompensas e incentivos mensais',
   doc4_link: 'https://drive.google.com/file/d/1_NmVBlZP4SVkKVlh5o1HCYrcedRauJj6/view',
-  doc5_title: 'Bônus Recovery',
-  doc5_desc: 'Programa de recuperação e bônus especiais',
-  doc5_link: 'https://drive.google.com/file/d/1zxXs9P8G_GtKpNuMWQsLoxp4neB59_Kt/view'
+  doc5_title: 'vazio',
+  doc5_desc: 'vazio',
+  doc5_link: ''
 };
 
 // Esta função preenche a página com os dados
