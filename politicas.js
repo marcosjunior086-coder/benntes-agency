@@ -10,7 +10,7 @@ const defaultConfig = {
   block1_title: 'Políticas e Normas da Plataforma',
   doc1_title: 'Políticas de Hosts',
   doc1_desc: 'Regras e diretrizes para hosts da plataforma',
-  doc1_link: 'https://drive.google.com/file/d/1aSb7W-5jnI6AmMLJ5tknojbsSvf9kmrA/view',
+  doc1_link: 'https://agencylives.wixsite.com/benntes/politicas',
   doc2_title: 'Políticas Premium',
   doc2_desc: 'Benefícios exclusivos e regras para membros premium',
   doc2_link: 'https://drive.google.com/file/d/1NqoMEEtE_ZZ2SIy_MnjOKR9wCwRikjOz/view',
